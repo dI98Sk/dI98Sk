@@ -21,11 +21,10 @@ I'm Dmitrii, a data analyst from :ru: Russia.
 - Learning database administration
 - Course: Data Science (SkillFactory School)
 
-
-
 - 📫 How to reach me : 
 -   inst: skakun_dr
 -   mail: skakundima.458@gmail.com
+
 
 <!---
 dI98Sk/dI98Sk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
