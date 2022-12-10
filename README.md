@@ -29,7 +29,7 @@ I'm Dmitrii, a data analyst from :ru: Russia.
 ### 🙌🏻 Contact me
 - [Telegram](https://t.me/DimaSkak485)
 - [Instagram](https://www.instagram.com/skakun_dr/)
-- [Mail]<a href="mailto:skakundima.458@gmail.com">Send Message</a>
+- <a href="mailto:skakundima.458@gmail.com">Send Message</a>
 
 
 <!---
