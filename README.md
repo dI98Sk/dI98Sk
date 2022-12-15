@@ -26,6 +26,9 @@ I'm Dmitrii, a data analyst from :ru: Russia.
 - Learning database administration
 - Course: Data Science (SkillFactory School)
 
+#### Link to summmary
+English:[ Skakun Dmitrii](https://drive.google.com/file/d/1pa4oSOqRaX9lhRP3Z4VH8BKEoVJq9UIT/view?usp=sharing)
+
 ### 🙌🏻 Contact me
 - [Telegram](https://t.me/DimaSkak485)
 - [Instagram](https://www.instagram.com/skakun_dr/)
