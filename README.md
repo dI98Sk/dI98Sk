@@ -2,7 +2,7 @@
 
 I'm Dmitrii, a data analyst from :ru: Russia.
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dl98Sk&layout=compact)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dI98Sk&layout=compact)
 
 ## ✨ About me in 30 seconds ✨ 
 * 🎓 Education:
