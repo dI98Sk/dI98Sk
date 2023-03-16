@@ -20,7 +20,7 @@ I'm Dmitrii, a data analyst from :ru: Russia.
 - How to transition into Data Analytics? Click (link)
 --->
 ## 💡 Core Competencies 💡
-- Tools: SQL, Python
+- Tools: SQL, Python, Math statistics
 - Skills: Data Cleaning and Wrangling, Data Visualisation, Data Analysis,  Exploratory data analysis(EDA), Machine learning (ML)
 
 ## ⚡️ Currently ⚡️
