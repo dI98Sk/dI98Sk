@@ -21,7 +21,7 @@ I'm Dmitrii, a data analyst from :ru: Russia.
 --->
 ## 💡 Core Competencies 💡
 - Tools: SQL, Python
-- Skills: Data Cleaning and Wrangling, Data Visualisation, Data Analysis 
+- Skills: Data Cleaning and Wrangling, Data Visualisation, Data Analysis,  Exploratory data analysis(EDA), Machine learning (ML)
 
 ## ⚡️ Currently ⚡️
 - Brushing up on data cleaning and wrangling skills using Python
