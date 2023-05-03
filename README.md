@@ -1,6 +1,6 @@
 # Hi there! :wave:
 
-I'm Dmitrii, a data analyst from :ru: Russia.
+I'm Dmitrii, Java developer and data analyst from :ru: Russia.
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dI98Sk&layout=compact)
 
@@ -20,13 +20,15 @@ I'm Dmitrii, a data analyst from :ru: Russia.
 - How to transition into Data Analytics? Click (link)
 --->
 ## 💡 Core Competencies 💡
-- Tools: SQL, Python, Math statistics
-- Skills: Data Cleaning and Wrangling, Data Visualisation, Data Analysis,  Exploratory data analysis(EDA), Machine learning (ML)
+- Tools: SQL, Python,Java, JDBC, Hibernate, Math statistics
+- Skills:  Development of server applications on Java, Data Analysis,  Exploratory data analysis(EDA), Machine learning (ML)
 
 ## ⚡️ Currently ⚡️
 - Brushing up on data cleaning and wrangling skills using Python
+- Developing using Java
 - Learning database administration
 - Course: Data Science (SkillFactory School)
+- Course: Java Development 
 
 #### Link to summmary
 English:[ Skakun Dmitrii](https://drive.google.com/file/d/1pa4oSOqRaX9lhRP3Z4VH8BKEoVJq9UIT/view?usp=sharing)
