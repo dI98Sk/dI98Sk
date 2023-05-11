@@ -18,7 +18,7 @@ I'm Dmitrii, Java developer and data analyst from :ru: Russia.
 - How to transition into Data Analytics? Click (link)
 --->
 ## 💡 Core Competencies 💡
-- Tools: SQL, Python,Java, JDBC, Hibernate, Math statistics
+- Tools: SQL, Python,Java, JDBC, Hibernate,Spring Framework, Math statistics
 - Skills:  Development of server applications on Java, Data Analysis,  Exploratory data analysis(EDA), Machine learning (ML)
 
 ## ⚡️ Currently ⚡️
