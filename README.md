@@ -13,7 +13,7 @@ I'm Dmitrii, Java developer and data analyst from :ru: Russia.
 - 💞️ I’m looking to collaborate on Data Science or Analytics
 
 
-## 📚 Projects & Guides 📚
+## 📚 Projects & Guides 📚📚
 
 <!---
 - For my portfolio guide, click (link)
