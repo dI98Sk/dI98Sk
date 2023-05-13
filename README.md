@@ -2,6 +2,8 @@
 
 I'm Dmitrii, Java developer and data analyst from :ru: Russia.
 
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dI98Sk&layout=compact)
+
 ## ✨ About me in 30 seconds ✨ 
 * 🎓 Education:
 - Sothen Federal University (Bachelor)  09.03.03 - Applied Information Science and Math (2020)
