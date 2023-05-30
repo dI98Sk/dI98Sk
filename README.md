@@ -10,7 +10,7 @@ I'm Dmitrii, Java developer and data analyst from :ru: Russia.
 - SkillFactory (Data Science Course)
 - 📊Started studying data from August 2022.
 - 👀 I’m interested in Python programming and reserch Java
-- 💞️ Firstly, I’m looking to collaborate on Java Developing, and I sure that my skills in Data Science or Analytics can be useful
+- 💞️ Firstly, I’m looking to collaborate on Java Developing, and I sure that my skills in Data Science or Analytics will be useful
 
 
 ## 📚 Projects & Guides 📚📚
