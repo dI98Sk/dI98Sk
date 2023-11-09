@@ -31,7 +31,7 @@ I'm Dmitrii, Java developer and data analyst from :ru: Russia.
 - Course: Java Development 
 
 #### Link to summmary
-English:[ Skakun Dmitrii](https://drive.google.com/file/d/1pa4oSOqRaX9lhRP3Z4VH8BKEoVJq9UIT/view?usp=sharing)
+English:[ Skakun Dmitrii](https://docs.google.com/document/d/1mFW-KvKdRvh215H-RKDGZ9Q7Mm44FFyk/edit?usp=share_link&ouid=116946619609232368555&rtpof=true&sd=true)
 
 ### 🙌🏻 Contact me
 - [Telegram](https://t.me/DimaSkak485)
