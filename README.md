@@ -34,7 +34,7 @@ I'm Dmitrii, Java developer and data analyst from :ru: Russia.
 English:[ Skakun Dmitrii](https://docs.google.com/document/d/1mFW-KvKdRvh215H-RKDGZ9Q7Mm44FFyk/edit?usp=share_link&ouid=116946619609232368555&rtpof=true&sd=true)
 
 ### 🙌🏻 Contact me
-- [Telegram](https://t.me/DimaSkak485)
+- [Telegram](https://t.me/alphacvant)
 - [Instagram](https://www.instagram.com/skakun_dr/)
 - <a href="mailto:skakundima.458@gmail.com">Send Message</a>
 
