@@ -14,11 +14,7 @@
 ### 🎓 Education & Certifications
 
 - 🎓 **Southern Federal University** — B.Sc. in Applied Information Science and Mathematics (2020)  
-- 📘 **VesperFin** — Advanced Courses:
-  - Quantitative Finance and Risk Modeling  
-  - Machine Learning in Asset Management  
-  - Python for Financial Markets  
-- 🧠 **SkillFactory** — Data Science Program  
+- 📘 **National Research University Higher School of Economics** — master's program in Big Data Analytics (2023)
 
 ---
 
