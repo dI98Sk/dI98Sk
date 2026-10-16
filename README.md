@@ -14,7 +14,7 @@
 ### 🎓 Education & Certifications
 
 - 🎓 **Southern Federal University** — B.Sc. in Applied Information Science and Mathematics (2020)  
-- 📘 **National Research University Higher School of Economics** — master's program in Big Data Analytics (2023)
+
 
 ---
 
