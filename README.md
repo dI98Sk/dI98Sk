@@ -71,15 +71,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dI98Sk&show_icons=true&theme=default&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dI98Sk&theme=default" width="48%" />
-</p>
-
----
-
 ⭐ *Focused on integrating modern machine learning methods into financial research, ETF analytics, and derivatives modeling.*
 
 ⭐ *Focused on applying machine learning and quantitative analysis to modern financial instruments, ETFs, and derivatives markets.*
